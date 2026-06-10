@@ -1,0 +1,4 @@
+cadet_id,name,risk_score,risk_level,main_reasons
+C001,Arjun Menon,34.7,Low,Study inactivity
+C002,Meera Iyer,56.3,Medium,"Low flight progress, Low study progress, Low quiz score, Study inactivity, High payment risk, Frequent cancellations, High avg delay"
+C003,Rahul Nair,65.3,Medium,"Low flight progress, Low study progress, Low quiz score, Study inactivity, High payment risk, Frequent cancellations"
